@@ -51,3 +51,4 @@ class Bicycle
         $this->color = $color;
     }
 }
+?>
