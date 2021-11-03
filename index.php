@@ -23,3 +23,5 @@ echo $car->brake();
 echo $car->start();
 echo '<br> Ma voiture est : ' . $car->getColor() . ', avec ' . $car->getNbSeats() . ' places' . ' et roule de façon : '. $car->getEnergy();
 
+?>
+
